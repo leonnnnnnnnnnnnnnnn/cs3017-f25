@@ -21,3 +21,6 @@ Additionally, going to the gym allows me to gain clarity and improve my health. 
 > "A smooth sea never made a skilled sailor."
 
 **- Franklin Roosevelt**, *unknown*
+
+## Where to Find Me 
+
