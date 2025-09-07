@@ -8,9 +8,16 @@ One of my hobbies is watching UFC, whcih stemmed from taking Brazilian JiuJitsu 
 I was also a DJ for a little while, hyping up a function. I also love to play basketball for fun even though it gets competitive. 
 Additionally, going to the gym allows me to gain clarity and improve my health. Lastly, I like exploring food places around the city. 
 
++ Brazilian JiuJitsu
++ DJ
++ Basketball
+
+## My Top 3 Favorite Foods 
+1. Burgers
+2. Fried Dumplings
+3. Sushi
+
 ## My Favorite Quote 
 > "A smooth sea never made a skilled sailor."
 > 
 > **- Franklin Roosevelt**, *unknown*
->
->  
