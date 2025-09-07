@@ -25,7 +25,10 @@ Additionally, going to the gym allows me to gain clarity and improve my health. 
 ## Where to Find Me 
 [My GitHub Profile](https://github.com/)
 
+## Image
+![Beach at sunset with palm trees](https://github.com/user-attachments/assets/d0c43e2a-b45d-4722-8930-cc2e3a0cc2b7)
 
+*Photo used by [Amber Janssens] on [Pexels](https://www.pexels.com/photo/a-beach-with-palm-trees-13397143/)*
 
 
 
