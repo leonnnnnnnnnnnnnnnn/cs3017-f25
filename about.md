@@ -23,7 +23,7 @@ Additionally, going to the gym allows me to gain clarity and improve my health. 
 **- Franklin Roosevelt**, *unknown*
 
 ## Where to Find Me 
-[GitHub Profile Page](https://github.com/leonnnnnnnnnnnnnnnn/cs3017-f25)
+[My GitHub Profile](https://github.com/leonnnnnnnnnnnnnnnn/cs3017-f25)
 
 
 
