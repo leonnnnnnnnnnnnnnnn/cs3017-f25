@@ -24,6 +24,7 @@ Additionally, going to the gym allows me to gain clarity and improve my health. 
 
 ## Where to Find Me 
 [My GitHub Profile](https://github.com/)
+
 [My GitHub Website](https://leonnnnnnnnnnnnnnnn.github.io/cs3017-f25/about)
 
 ## Image
